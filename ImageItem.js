@@ -3,9 +3,9 @@ import {
   Image,
   StyleSheet,
   Dimensions,
-  TouchableOpacity,
 } from 'react-native';
 import PropTypes from 'prop-types';
+import { TouchableOpacity } from 'react-native-gesture-handler';
 
 const checkIcon = require('./circle-check.png');
 
